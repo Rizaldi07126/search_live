@@ -31,7 +31,7 @@ CREATE TABLE IF NOT EXISTS `mahasiswa` (
 -- Dumping data for table kampus.mahasiswa: ~3 rows (approximately)
 INSERT INTO `mahasiswa` (`id`, `nim`, `nama`, `jurusan`) VALUES
 	(1, 'A12.2023.07126', 'Rizaldi', 'Sistem Informasi'),
-	(2, 'A11.2023.07127', 'Ilman', 'Teknik Informasi'),
+	(2, 'A11.2023.07126\r', 'Ilman', 'Teknik Informasi'),
 	(3, 'A15.2023.07126', 'Maulana', 'Ilmu Komunikasi');
 
 /*!40103 SET TIME_ZONE=IFNULL(@OLD_TIME_ZONE, 'system') */;
